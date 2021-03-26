@@ -35,8 +35,14 @@ add you're username and password
 
 create a database in MQL with the code from the schema 
 now seed the database in the command with this
+
 npm run seed
+
 then 
+
 npm start
+
 Use Insomnia core to GET, POST, PUT or DELETE the data
 ```
+
+<img width="724" alt="Screenshot 2021-03-25 174909" src="https://user-images.githubusercontent.com/74078719/112561452-7d306f80-8d92-11eb-9691-c27eb1004f18.png">
