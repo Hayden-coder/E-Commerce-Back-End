@@ -23,3 +23,18 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
+## Insatll 
+```md
+Npm insatll 
+Create a env. file and add this code and add you're username and password
+DB_USER=''
+DB_PW=''
+DB_NAME='ecommerce_db'
+
+create a database in MQL with the code from the schema 
+now seed the database in the command with this
+npm run seed
+then 
+npm start
+Use Insomnia core to GET, POST, PUT or DELETE the data
+```
