@@ -48,3 +48,12 @@ Use Insomnia core to GET, POST, PUT or DELETE the data
 https://drive.google.com/file/d/1s9CoWsKSrY0U5A2NEOnqn32oZkPkWYOe/view
 
 <img width="724" alt="Screenshot 2021-03-25 174909" src="https://user-images.githubusercontent.com/74078719/112561452-7d306f80-8d92-11eb-9691-c27eb1004f18.png">
+
+## Programs used 
+MySQL
+Insomnia
+Node
+Express.js
+Sequelizer
+dotenv
+
