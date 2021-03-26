@@ -26,10 +26,12 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Insatll 
 ```md
 Npm insatll 
-Create a env. file and add this code and add you're username and password
+Create a env. file and add this code
 DB_USER=''
 DB_PW=''
 DB_NAME='ecommerce_db'
+
+add you're username and password
 
 create a database in MQL with the code from the schema 
 now seed the database in the command with this
